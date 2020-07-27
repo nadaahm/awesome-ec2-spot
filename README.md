@@ -30,6 +30,7 @@ Contributions are welcome!
 
 ### Customer Stories
 
+* https://aws.amazon.com/ec2/spot/testimonials/ - Examples of how customers have achieved business agility, cost savings, and scale with EC2 Spot instances.
 * [Capacity-Optimized Spot Instance allocation Strategy in action at Mobileye and Skyscanner](https://aws.amazon.com/blogs/aws/capacity-optimized-spot-instance-allocation-in-action-at-mobileye-and-skyscanner/)
 * [Western Digital HDD Simulation at Cloud Scale – 2.5 Million HPC tasks, 40K EC2 Spot Instances](https://aws.amazon.com/blogs/aws/western-digital-hdd-simulation-at-cloud-scale-2-5-million-hpc-tasks-40k-ec2-spot-instances/)
 * [Nearmap Builds AWS-Powered ML Pipeline to Help Others Analyze the World](https://aws.amazon.com/solutions/case-studies/nearmap-spot/)
