@@ -11,6 +11,10 @@ Contributions are welcome!
 * https://github.com/awslabs/ec2-spot-labs – Sample code snippets to get started with Spot.
 
 ### Tools
+* [AWS Node Termination Handler](https://github.com/aws/aws-node-termination-handler)
+* [Amazon EC2 Instance Selector](https://github.com/aws/amazon-ec2-instance-selector)
+* [Amazon EC2 Metadata Mock](https://github.com/aws/amazon-ec2-metadata-mock)
+* [AutoSpotting](https://github.com/AutoSpotting/AutoSpotting)
 
 ### Tutorials 
 
