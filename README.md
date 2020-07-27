@@ -7,8 +7,8 @@ A curated list of awesome AWS EC2 Spot related updates, open source repos, guide
 Contributions are welcome!
 
 ### Hands-on
-* https://ec2spotworkshops.com – 90 min use-case focused self-paced workshops
-* https://github.com/awslabs/ec2-spot-labs – Sample code snippets to get started with Spot
+* https://ec2spotworkshops.com – 90mins use-case focused self-paced workshops.
+* https://github.com/awslabs/ec2-spot-labs – Sample code snippets to get started with Spot.
 
 ### Tools
 
