@@ -48,9 +48,9 @@ Contributions are welcome!
 
 
 ### News and Announcements
-* [Jul-2020][Amazon EMR now supports Managed Scaling – automatically resizing clusters to lower cost](https://aws.amazon.com/about-aws/whats-new/2020/07/amazon-emr-now-supports-managed-scaling-automatically-resizing-clusters-to-lower-cost/)
-* [Jul-2020][AWS Marketplace AMIs now supported with Spot Instances in the EC2 Launch Instance Wizard](https://aws.amazon.com/about-aws/whats-new/2020/07/aws-marketplace-amis-supported-with-spot-instances-in-ec2-launch-instance-wizard/)
-* [Jun-2020][Amazon EMR uses real-time capacity insights to provision spot instances to lower cost and interruption](https://aws.amazon.com/about-aws/whats-new/2020/06/amazon-emr-uses-real-time-capacity-insights-to-provision-spot-instances-to-lower-cost-and-interruption/)
-* [Jan-2020][Amazon EC2 Spot instances can now be stopped and started similar to On-Demand instances](https://aws.amazon.com/about-aws/whats-new/2020/01/amazon-ec2-spot-instances-stopped-started-similar-to-on-demand-instances/)
-* [Dec-2019][Amazon ECS Capacity Providers Now Available](https://aws.amazon.com/about-aws/whats-new/2019/12/amazon-ecs-capacity-providers-now-available/)
+* [Jul-2020] [Amazon EMR now supports Managed Scaling – automatically resizing clusters to lower cost](https://aws.amazon.com/about-aws/whats-new/2020/07/amazon-emr-now-supports-managed-scaling-automatically-resizing-clusters-to-lower-cost/)
+* [Jul-2020] [AWS Marketplace AMIs now supported with Spot Instances in the EC2 Launch Instance Wizard](https://aws.amazon.com/about-aws/whats-new/2020/07/aws-marketplace-amis-supported-with-spot-instances-in-ec2-launch-instance-wizard/)
+* [Jun-2020] [Amazon EMR uses real-time capacity insights to provision spot instances to lower cost and interruption](https://aws.amazon.com/about-aws/whats-new/2020/06/amazon-emr-uses-real-time-capacity-insights-to-provision-spot-instances-to-lower-cost-and-interruption/)
+* [Jan-2020] [Amazon EC2 Spot instances can now be stopped and started similar to On-Demand instances](https://aws.amazon.com/about-aws/whats-new/2020/01/amazon-ec2-spot-instances-stopped-started-similar-to-on-demand-instances/)
+* [Dec-2019] [Amazon ECS Capacity Providers Now Available](https://aws.amazon.com/about-aws/whats-new/2019/12/amazon-ecs-capacity-providers-now-available/)
 
