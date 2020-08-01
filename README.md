@@ -6,6 +6,14 @@ A curated list of awesome AWS EC2 Spot related tools, open source repos, guides,
 
 Contributions are welcome!
 
+Let's get srtarted!
+
+### Amazon ECS and Fargate Spot
+* [Leverage EC2 Spot with ECS Capacity Providers to manage compute capacity and scaling for your cluster.](https://docs.aws.amazon.com/AmazonECS/latest/developerguide/cluster-capacity-providers.html)
+* [Handle interruptions, use automated draining for Spot instance in ECS cluster.](https://docs.aws.amazon.com/AmazonECS/latest/developerguide/container-instance-spot.html)
+* [Deep dive into Fargate Spot to run your ECS Tasks for up to 70% less.](https://aws.amazon.com/blogs/compute/deep-dive-into-fargate-spot-to-run-your-ecs-tasks-for-up-to-70-less/)
+* [Monitor Fargate Spot task interruption notifications to ensure workload resiliency.](https://docs.amazonaws.cn/en_us/AmazonECS/latest/developerguide/ecs_cwe_events.html)
+
 ### Hands-on
 * https://ec2spotworkshops.com – 90mins use-case focused self-paced workshops.
 * https://github.com/awslabs/ec2-spot-labs – Sample code snippets to get started with Spot.
