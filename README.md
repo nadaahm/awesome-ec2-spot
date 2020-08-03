@@ -23,6 +23,7 @@ Let's get srtarted!
 * [Amazon EC2 Instance Selector](https://github.com/aws/amazon-ec2-instance-selector)
 * [Amazon EC2 Metadata Mock](https://github.com/aws/amazon-ec2-metadata-mock)
 * [AutoSpotting](https://github.com/AutoSpotting/AutoSpotting)
+* [EC2 Spot Interruption Dashboard](https://github.com/aws-samples/ec2-spot-interruption-dashboard)
 
 ### Tutorials 
 
