@@ -22,6 +22,7 @@ Let's get srtarted!
     - [Machine Learning](#--machine-learning)
     - [Autonomous Vehicle](#--autonomous-vehicle)
 - [Tools](#tools)
+- [Tutorials](#tutorials)
 - [Customer Stories](#customer-stories)
 - [News and Announcements](#news-and-announcements)
 
