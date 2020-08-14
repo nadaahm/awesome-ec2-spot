@@ -39,8 +39,8 @@ Let's get srtarted!
 * [Introducing Instance Refresh for EC2 Auto Scaling](https://aws.amazon.com/blogs/compute/introducing-instance-refresh-for-ec2-auto-scaling/)
 
 ### - Data Analytics
-* [Best practices for running Apache Spark applications using Amazon EC2 Spot Instances with Amazon EMR](https://aws.amazon.com/blogs/big-data/best-practices-for-running-apache-spark-applications-using-amazon-ec2-spot-instances-with-amazon-emr/)
-* [Best practices for running Spark applications using Spot instances on Amazon EMR](https://pages.awscloud.com/Best-Practices-for-Running-Spark-Applications-Using-Spot-Instances-on-EMR_2019_0820-CMP_OD.html?&trk=ep_card-el_a131L0000057bPMQAY&trkCampaign=NA-FY19-AWS-DIGMKT-WEBINAR-SERIES-August_2019_0820-CMP&sc_channel=el&sc_campaign=pac_2018-2019_exlinks_ondemand_OTT_evergreen&sc_outcome=Product_Adoption_Campaigns&sc_geo=NAMER&sc_country=mult)
+* [Article] [Best practices for running Apache Spark applications using Amazon EC2 Spot Instances with Amazon EMR](https://aws.amazon.com/blogs/big-data/best-practices-for-running-apache-spark-applications-using-amazon-ec2-spot-instances-with-amazon-emr/) {:target="_blank"}
+* [Video] [Best practices for running Spark applications using Spot instances on Amazon EMR](https://pages.awscloud.com/Best-Practices-for-Running-Spark-Applications-Using-Spot-Instances-on-EMR_2019_0820-CMP_OD.html?&trk=ep_card-el_a131L0000057bPMQAY&trkCampaign=NA-FY19-AWS-DIGMKT-WEBINAR-SERIES-August_2019_0820-CMP&sc_channel=el&sc_campaign=pac_2018-2019_exlinks_ondemand_OTT_evergreen&sc_outcome=Product_Adoption_Campaigns&sc_geo=NAMER&sc_country=mult)
 
 ### - Containers
 
