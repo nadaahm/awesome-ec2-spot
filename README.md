@@ -52,10 +52,10 @@ Let's get srtarted!
 
 #### Amazon ECS and Fargate Spot
 
-* Leverage EC2 Spot with ECS Capacity Providers to manage compute capacity and scaling for your cluster.[Link](https://docs.aws.amazon.com/AmazonECS/latest/developerguide/cluster-capacity-providers.html)
-* Handle interruptions, use automated draining for Spot instance in ECS cluster.[Link](https://docs.aws.amazon.com/AmazonECS/latest/developerguide/container-instance-spot.html)
+* [Leverage EC2 Spot with ECS Capacity Providers to manage compute capacity and scaling for your cluster.](https://docs.aws.amazon.com/AmazonECS/latest/developerguide/cluster-capacity-providers.html)
+* [Handle interruptions, use automated draining for Spot instance in ECS cluster.](https://docs.aws.amazon.com/AmazonECS/latest/developerguide/container-instance-spot.html)
 * [Deep dive into Fargate Spot to run your ECS Tasks for up to 70% less.](https://aws.amazon.com/blogs/compute/deep-dive-into-fargate-spot-to-run-your-ecs-tasks-for-up-to-70-less/)
-* Monitor Fargate Spot task interruption notifications to ensure workload resiliency.[Link](https://docs.amazonaws.cn/en_us/AmazonECS/latest/developerguide/ecs_cwe_events.html)
+* [Monitor Fargate Spot task interruption notifications to ensure workload resiliency](https://docs.amazonaws.cn/en_us/AmazonECS/latest/developerguide/ecs_cwe_events.html)
 * [Using Fargate Spot to Optimize costs for serverless containers](https://pages.awscloud.com/Using-Fargate-Spot-to-Optimize-Costs-for-Serverless-Containers_2019_1203-CON_OD.html?&trk=ep_card-el_a131L0000058gpwQAA&trkCampaign=NA-FY19-AWS-DIGMKT-WEBINAR-SERIES-December_2019_1203-CON&sc_channel=el&sc_campaign=pac_2018-2019_exlinks_ondemand_OTT_evergreen&sc_outcome=Product_Adoption_Campaigns&sc_geo=NAMER&sc_country=mult)
 
 
@@ -97,7 +97,7 @@ Let's get srtarted!
 
 ### Customer Stories
 
-* https://aws.amazon.com/ec2/spot/testimonials/ - Examples of how customers have achieved business agility, cost savings, and scale with EC2 Spot instances.
+* [Examples of how customers have achieved business agility, cost savings, and scale with EC2 Spot instances.](https://aws.amazon.com/ec2/spot/testimonials/)
 * [Capacity-Optimized Spot Instance allocation Strategy in action at Mobileye and Skyscanner](https://aws.amazon.com/blogs/aws/capacity-optimized-spot-instance-allocation-in-action-at-mobileye-and-skyscanner/)
 * [Western Digital HDD Simulation at Cloud Scale – 2.5 Million HPC tasks, 40K EC2 Spot Instances](https://aws.amazon.com/blogs/aws/western-digital-hdd-simulation-at-cloud-scale-2-5-million-hpc-tasks-40k-ec2-spot-instances/)
 * [Nearmap Builds AWS-Powered ML Pipeline to Help Others Analyze the World](https://aws.amazon.com/solutions/case-studies/nearmap-spot/)
