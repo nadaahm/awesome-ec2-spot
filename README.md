@@ -54,20 +54,20 @@ Let's get srtarted!
 
 * [Leverage EC2 Spot with ECS Capacity Providers to manage compute capacity and scaling for your cluster.](https://docs.aws.amazon.com/AmazonECS/latest/developerguide/cluster-capacity-providers.html)
 * [Handle interruptions, use automated draining for Spot instance in ECS cluster.](https://docs.aws.amazon.com/AmazonECS/latest/developerguide/container-instance-spot.html)
-* [Deep dive into Fargate Spot to run your ECS Tasks for up to 70% less.](https://aws.amazon.com/blogs/compute/deep-dive-into-fargate-spot-to-run-your-ecs-tasks-for-up-to-70-less/)
+* [Article] [Deep dive into Fargate Spot to run your ECS Tasks for up to 70% less.](https://aws.amazon.com/blogs/compute/deep-dive-into-fargate-spot-to-run-your-ecs-tasks-for-up-to-70-less/)
 * [Monitor Fargate Spot task interruption notifications to ensure workload resiliency](https://docs.amazonaws.cn/en_us/AmazonECS/latest/developerguide/ecs_cwe_events.html)
-* [Using Fargate Spot to Optimize costs for serverless containers](https://pages.awscloud.com/Using-Fargate-Spot-to-Optimize-Costs-for-Serverless-Containers_2019_1203-CON_OD.html?&trk=ep_card-el_a131L0000058gpwQAA&trkCampaign=NA-FY19-AWS-DIGMKT-WEBINAR-SERIES-December_2019_1203-CON&sc_channel=el&sc_campaign=pac_2018-2019_exlinks_ondemand_OTT_evergreen&sc_outcome=Product_Adoption_Campaigns&sc_geo=NAMER&sc_country=mult)
+* [Video] [Using Fargate Spot to Optimize costs for serverless containers](https://pages.awscloud.com/Using-Fargate-Spot-to-Optimize-Costs-for-Serverless-Containers_2019_1203-CON_OD.html?&trk=ep_card-el_a131L0000058gpwQAA&trkCampaign=NA-FY19-AWS-DIGMKT-WEBINAR-SERIES-December_2019_1203-CON&sc_channel=el&sc_campaign=pac_2018-2019_exlinks_ondemand_OTT_evergreen&sc_outcome=Product_Adoption_Campaigns&sc_geo=NAMER&sc_country=mult)
 
 
 ### - Web Applications
 
-* [Running Web Applications on Amazon EC2 Spot Instances](https://aws.amazon.com/blogs/compute/running-web-applications-on-amazon-ec2-spot-instances/)
-* [How to build scalabe web applications with EC2 Spot](https://pages.awscloud.com/How-to-Build-Scalable-Web-Based-Applications-for-Less-with-Amazon-EC2-Spot-Instances_2020_0327-CMP_OD.html?&trk=ep_card-el_a131L0000084iGQQAY&trkCampaign=NA-FY20-AWS-DIGMKT-WEBINAR-SERIES-March_2020_0327-CMP&sc_channel=el&sc_campaign=pac_2018-2019_exlinks_ondemand_OTT_evergreen&sc_outcome=Product_Adoption_Campaigns&sc_geo=NAMER&sc_country=mult)
+* [Article] [Running Web Applications on Amazon EC2 Spot Instances](https://aws.amazon.com/blogs/compute/running-web-applications-on-amazon-ec2-spot-instances/)
+* [Video] [How to build scalabe web applications with EC2 Spot](https://pages.awscloud.com/How-to-Build-Scalable-Web-Based-Applications-for-Less-with-Amazon-EC2-Spot-Instances_2020_0327-CMP_OD.html?&trk=ep_card-el_a131L0000084iGQQAY&trkCampaign=NA-FY20-AWS-DIGMKT-WEBINAR-SERIES-March_2020_0327-CMP&sc_channel=el&sc_campaign=pac_2018-2019_exlinks_ondemand_OTT_evergreen&sc_outcome=Product_Adoption_Campaigns&sc_geo=NAMER&sc_country=mult)
 
 ### - CI/CD
 
-* [Cost Optimize your Jenkins CI/CD pipelines using EC2 Spot Instances](https://aws.amazon.com/blogs/compute/cost-optimize-your-jenkins-ci-cd-pipelines-using-ec2-spot-instances/)
-* [Running Enteprise CI/CD workloads with Spot instances and Cloudbees](https://pages.awscloud.com/Running-Enterprise-CI-CD-workloads-with-Amazon-EC2-Spot-Instances-and-CloudBees_2019_0616-CMP_OD.html?&trk=ep_card-el_a131L000005v8UtQAI&trkCampaign=NA-FY19-AWS-DIGMKT-WEBINAR-SERIES-June_2019_0616-CMP&sc_channel=el&sc_campaign=pac_2018-2019_exlinks_ondemand_OTT_evergreen&sc_outcome=Product_Adoption_Campaigns&sc_geo=NAMER&sc_country=mult)
+* [Article] [Cost Optimize your Jenkins CI/CD pipelines using EC2 Spot Instances](https://aws.amazon.com/blogs/compute/cost-optimize-your-jenkins-ci-cd-pipelines-using-ec2-spot-instances/)
+* [Video] [Running Enteprise CI/CD workloads with Spot instances and Cloudbees](https://pages.awscloud.com/Running-Enterprise-CI-CD-workloads-with-Amazon-EC2-Spot-Instances-and-CloudBees_2019_0616-CMP_OD.html?&trk=ep_card-el_a131L000005v8UtQAI&trkCampaign=NA-FY19-AWS-DIGMKT-WEBINAR-SERIES-June_2019_0616-CMP&sc_channel=el&sc_campaign=pac_2018-2019_exlinks_ondemand_OTT_evergreen&sc_outcome=Product_Adoption_Campaigns&sc_geo=NAMER&sc_country=mult)
 
 
 ### - Machine Learning
@@ -78,7 +78,7 @@ Let's get srtarted!
 
 ### - Autonomous Vehicle
 
-* [Autonomous Vehicle and ADAS development on AWS Part 1: Achieving Scale](https://aws.amazon.com/blogs/industries/autonomous-vehicle-and-adas-development-on-aws-part-1-achieving-scale/)
+* [Article] [Autonomous Vehicle and ADAS development on AWS Part 1: Achieving Scale](https://aws.amazon.com/blogs/industries/autonomous-vehicle-and-adas-development-on-aws-part-1-achieving-scale/)
 
 ### Tools
 * [Spot Instance Advisor](https://aws.amazon.com/ec2/spot/instance-advisor/)
