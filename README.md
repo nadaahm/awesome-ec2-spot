@@ -1,4 +1,4 @@
-# Awesome EC2 Spot
+# Awesome Amazon EC2 Spot Instances
 A curated list of awesome Amazon EC2 Spot related tools, open source repos, guides, blogs, and other resources.
 
 
